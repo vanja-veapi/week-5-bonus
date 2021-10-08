@@ -127,14 +127,8 @@ li
     margin-bottom: 40px;
     margin-top: 40px;
 }
-.hamburger__footer
-{
-    margin-top: 195px;
-}
-.hamburger__footer .fb
-{
-    margin-right: 40px;
-}
+.hamburger__footer { margin-top: 195px; }
+.hamburger__footer .fb { margin-right: 40px; }
 .rectangle
 {
     width: 1000px;
